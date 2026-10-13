@@ -1,0 +1,57 @@
+
+body {
+    background-color: #0563B5;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+.title-bar {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 4px 5px 8px black;
+}
+
+.title-bar h1 {
+    font-size: 24px;
+    margin: 0;
+}
+
+
+.volleyball-image {
+    width: 200px;
+    height: 190px;
+}
+
+h5 {
+    color: white;
+    margin-top: 10px;
+}
+
+
+.guide-card {
+    background-color: white;
+    color: black;
+    padding: 35px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    box-shadow: 4px 5px 8px black;
+}
+
+.guide-card h2 {
+    background-color: #FFD500;
+    padding: 6px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.guide-card li {
+    margin-bottom: 8px;
+}
+
+
+footer {
+    color: white;
+    padding: 10px;
+}
